@@ -1,0 +1,88 @@
+
+{
+    "timestamp": 337608,
+    "payloadTimestamp": 1697035176664,
+    "payloadUpdateType": "Amigos.Entity",
+    "payloadData": {
+        "id": 101000021,
+        "updateType": "SIMULATION_OBJECT_UPDATE",
+        "ownerId": 21,
+        "className": "6DOFEntity",
+        "attributes": {
+            "rotationState.attitude.scalar": {
+                "valueType": "Double",
+                "units": "none",
+                "value": 0.49123553879049364
+            },
+            "translationState.referenceFrame": {
+                "valueType": "String",
+                "value": "ECEF_ITRF"
+            },
+            "rotationState.referenceFrame": {
+                "valueType": "String",
+                "value": "ECEF_ITRF"
+            },
+            "translationState.time.fractionalSeconds": {
+                "valueType": "Double",
+                "units": "s",
+                "value": 0.0
+            },
+            "translationState.position": {
+                "valueType": "Double",
+                "isArray": true,
+                "units": "m",
+                "value": [
+                    4.2164172428946465E7,
+                    -112.37740499526262,
+                    6438.22464416115
+                ]
+            },
+            "translationState.velocity": {
+                "valueType": "Double",
+                "isArray": true,
+                "units": "m/s",
+                "value": [
+                    -0.016387651998974198,
+                    -1.8729277556894885,
+                    107.30305403985784
+                ]
+            },
+            "translationState.time.integerSeconds": {
+                "valueType": "Double",
+                "units": "s",
+                "value": 1.956528097E9
+            },
+            "rotationState.time.fractionalSeconds": {
+                "valueType": "Double",
+                "units": "s",
+                "value": 0.0
+            },
+            "rotationState.angularVelocity": {
+                "valueType": "Double",
+                "isArray": true,
+                "units": "r/s",
+                "value": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "rotationState.attitude.vector": {
+                "valueType": "Double",
+                "isArray": true,
+                "units": "none",
+                "value": [
+                    0.5086121436558243,
+                    0.49115918012995474,
+                    0.5086885024542144
+                ]
+            },
+            "rotationState.time.integerSeconds": {
+                "valueType": "Double",
+                "units": "s",
+                "value": 1.956528097E9
+            }
+        },
+        "currentSimulationTime": 0.0
+    }
+}
